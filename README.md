@@ -2,7 +2,7 @@
 
 A hands-on Solana development setup project completed as part of the **Solana Fall 2026** program.
 
-This project covers the fundamentals of working with the Solana CLI and Anchor, including local development, transaction submission, PDA derivation, testing, and deploying an Anchor program to Solana Devnet.
+This project covers the fundamentals of working with the Solana CLI and Anchor, including local development, transaction submission, PDA derivation, testing, and deploying an Anchor program to Solana Devnet
 
 ## 🚀 What I Built
 
